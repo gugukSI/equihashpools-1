@@ -110,6 +110,15 @@
 "poolName": "SG Pool",
 "url": "https://zen.sgpool.net",
 "searchStrings": [
-"SGPool https://zen.sgpool.net"}
+"SGPool https://zen.sgpool.net"
+]
+},
+{
+"poolName": "NeoHash",
+"url": "http://neohash.com",
+"searchStrings": [
+"HeoHash http://neohash.com"
 ]
 }
+
+
